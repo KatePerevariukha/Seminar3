@@ -1,0 +1,15 @@
+C:\FilesGB\Seminar333\Seminar3\task23\bin\Debug\net6.0\task23.exe
+C:\FilesGB\Seminar333\Seminar3\task23\bin\Debug\net6.0\task23.deps.json
+C:\FilesGB\Seminar333\Seminar3\task23\bin\Debug\net6.0\task23.runtimeconfig.json
+C:\FilesGB\Seminar333\Seminar3\task23\bin\Debug\net6.0\task23.dll
+C:\FilesGB\Seminar333\Seminar3\task23\bin\Debug\net6.0\task23.pdb
+C:\FilesGB\Seminar333\Seminar3\task23\obj\Debug\net6.0\task23.csproj.AssemblyReference.cache
+C:\FilesGB\Seminar333\Seminar3\task23\obj\Debug\net6.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+C:\FilesGB\Seminar333\Seminar3\task23\obj\Debug\net6.0\task23.AssemblyInfoInputs.cache
+C:\FilesGB\Seminar333\Seminar3\task23\obj\Debug\net6.0\task23.AssemblyInfo.cs
+C:\FilesGB\Seminar333\Seminar3\task23\obj\Debug\net6.0\task23.csproj.CoreCompileInputs.cache
+C:\FilesGB\Seminar333\Seminar3\task23\obj\Debug\net6.0\task23.dll
+C:\FilesGB\Seminar333\Seminar3\task23\obj\Debug\net6.0\refint\task23.dll
+C:\FilesGB\Seminar333\Seminar3\task23\obj\Debug\net6.0\task23.pdb
+C:\FilesGB\Seminar333\Seminar3\task23\obj\Debug\net6.0\task23.genruntimeconfig.cache
+C:\FilesGB\Seminar333\Seminar3\task23\obj\Debug\net6.0\ref\task23.dll
